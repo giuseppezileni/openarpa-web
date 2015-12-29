@@ -1,0 +1,12 @@
+# Site settings
+title: openARPA
+tag_text: openARPA
+version:  0.3.0
+"description": Server REST API dedicato al monitoraggio dei dati ambientali.
+url: http://opendatabari.github.io/openarpa
+#url: http://127.0.0.1:4000
+
+# Build settings
+markdown: kramdown
+
+exclude: ["README.md"]
